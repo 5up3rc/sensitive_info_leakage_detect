@@ -5,4 +5,6 @@
 
 然后在nginx的http级别里include /data/code/test.conf
 
+
+
 触发MySQL的语法错误就能在splunk里看到日志了
